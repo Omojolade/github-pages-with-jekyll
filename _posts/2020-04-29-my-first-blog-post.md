@@ -1,5 +1,5 @@
 ---
-title: "Corona Virus"
+title: Corona Virus
 date: 2020-04-30
 ---
 
